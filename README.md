@@ -6,4 +6,6 @@ This works by python's dictionary and have colorama library for its colors.
 In this program contacts saves in a sorted way.
 
 This program has two functions of addContact and showContact that behave like their names.
+
+             what it looks like
 <img src="preview.png" alt="description of the image">
